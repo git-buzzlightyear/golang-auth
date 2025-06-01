@@ -10,7 +10,7 @@ A simple authentication API.
 ## Running Locally
 
 ```
-git clone https://github.com/Edmartt/go-authentication-api
+git clone https://github.com/git-buzzlightyear/golang-auth
 ```
 
 
@@ -18,12 +18,12 @@ or ssh instead:
 
 
 ```
-git@github.com:Edmart/go-authentication-api
+git@github.com:git-buzzlightyear/golang-auth
 ```
 
 
 ```
-cd go-authentication-api
+cd golang-auth
 ```
 
 ```
